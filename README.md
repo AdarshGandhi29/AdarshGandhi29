@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **adarshgandhi67544@gmail.com**
 
-- 📄 Know about my experiences ["C:\Users\Lenovo\Downloads\AdarshGandhi_Resume.pdf"]("C:\Users\Lenovo\Downloads\AdarshGandhi_Resume.pdf"usp=drive_link)
+- [📄 View My Resume](https://drive.google.com/file/d/1yTsNEf_L6xYsDAy9Ox0NW3-rZQqpPgP0/view?usp=drive_link)
+
 
 - ⚡ Fun fact **I believe in the transformative power of data to innovate and create positive change.**
 
