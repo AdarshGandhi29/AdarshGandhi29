@@ -6,13 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **PHP Project**
-
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **adarshgandhi67544@gmail.com**
-
-- 📄 [View My Resume](https://drive.google.com/file/d/1yTsNEf_L6xYsDAy9Ox0NW3-rZQqpPgP0/view?usp=drive_link)
 
 - ⚡ Fun fact **I believe in the transformative power of data to innovate and create positive change.**
 
